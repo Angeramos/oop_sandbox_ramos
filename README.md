@@ -23,7 +23,15 @@ import pandas as pd
 
 pd. read 
 ```
+<<<<<<< HEAD
+
+=======
+
+I am adding one line 
+
 Ang es pendeja
+
+>>>>>>> 6a59ac2f51d8512665038d4d879227f2abb7d8cb
 
 
 
