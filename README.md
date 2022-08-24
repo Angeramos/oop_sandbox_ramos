@@ -23,7 +23,7 @@ import pandas as pd
 
 pd. read 
 ```
-
+Ang es pendeja
 
 
 
